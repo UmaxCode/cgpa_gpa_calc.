@@ -7,7 +7,9 @@ const IntroPage = () => {
     <div className="IntroP">
       <div className="text-center">
         <i class="bi bi-dice-6 text-white" style={{ fontSize: "100px" }}></i>
-        <h3 className="text-white fw-bold fs-1 my-1">C_GPA Calculator</h3>
+        <h3 className="text-white fw-bold fs-1 my-1">
+          C_GPA Calculator - test
+        </h3>
         <p className="text-white">
           by <span className="fw-bold fs-5">Umaxcode</span>
         </p>
